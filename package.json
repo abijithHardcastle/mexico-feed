@@ -1,0 +1,16 @@
+{
+  "name": "mexico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abijith",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "random-key": "^0.3.2",
+    "xml2js": "^0.4.23"
+  }
+}
